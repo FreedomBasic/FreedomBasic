@@ -9,6 +9,10 @@ Free to try for one year: full features, including .exe creation. After that: pr
 Get the latest build from the **Releases** page (right side of this page).
 Includes the 32-bit and 64-bit Windows versions, Linux, Freedom Designer and the bilingual (English/Greek) help.
 
+## Overview
+
+A short tour of what Freedom BASIC can do today, as images (no download needed): [slides](slides), starting with [01_cover.png](slides/01_cover.png).
+
 ## Source code
 
 The source code is private. For access, contact me on Discord.
