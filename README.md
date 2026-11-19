@@ -11,9 +11,9 @@ Includes the 32-bit and 64-bit Windows versions, Linux, Freedom Designer and the
 
 ## Known issues
 
-**32-bit build of b710: File > Open and File > Save did nothing** (fixed on 2026-11-19).
-The first 32-bit `FreedomBasic32.exe` of release b710 reserved too much stack memory per thread, so the Windows file dialog could not start. The 64-bit version was not affected.
-If you downloaded `FreedomBasic32.exe` before 2026-11-19, please download it again from the b710 release (the file there has been replaced; its SHA-256 is in the release text).
+**32-bit builds b699, b700 and the first b710: File > Open and File > Save did nothing** (fixed on 2026-11-19).
+The 32-bit `FreedomBasic32.exe` of these releases reserved too much stack memory per thread, so the Windows file dialog could not start. The 64-bit version was not affected.
+If you use the 32-bit version, please download `FreedomBasic32.exe` again from the **b710** release (the file there has been replaced with a fixed build; its SHA-256 is in the release text). The 32-bit files in b699 and b700 still have the problem.
 
 ## Overview
 
