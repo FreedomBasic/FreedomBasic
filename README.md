@@ -1,6 +1,6 @@
 # Freedom BASIC
 
-A Liberty BASIC 4.5.1-compatible interpreter and IDE for Windows and Linux.
+A BASIC interpreter and IDE for Windows and Linux, with a QB64-style mode.
 
 Free to try for one year: full features, including .exe creation. After that: programs up to 1800 lines and no .exe creation, unless you have a license (not on sale yet).
 
