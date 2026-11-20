@@ -9,6 +9,10 @@ Free to try for one year: full features, including .exe creation. After that: pr
 Get the latest build from the **Releases** page (right side of this page).
 Includes the 32-bit and 64-bit Windows versions, Linux, Freedom Designer and the bilingual (English/Greek) help.
 
+## macOS (experimental, not released yet)
+
+Freedom BASIC builds and runs on macOS (Apple Silicon and Intel) in automated tests: programs run and a QB-style window draws text and graphics correctly. Mouse, keyboard, menus and forms are not tested yet because I have no Mac. If you have a Mac and would like to test, please contact me on Discord.
+
 ## Known issues
 
 **32-bit builds b699, b700 and the first b710: File > Open and File > Save did nothing** (fixed on 2026-11-19).
